@@ -17,6 +17,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [Google Search Console](https://search.google.com/search-console)
 
 - [Meta Title Checker & SERP Preview](https://blazesolutions.info/tools/meta-title-checker)
+- [Screpy Free On-Page SEO Audit](https://screpy.com/tools/onpage/) — Check a URL's metadata, headings, canonical, links, images, and structured data without signing up.
 
 ## Generators
 - [WebTools Engine – QR Code, Barcode & UTM Builder](https://blazesolutions.info/generators)
